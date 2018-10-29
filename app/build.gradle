@@ -1,0 +1,61 @@
+/*
+ * Created by omrobbie.
+ * Copyright (c) 2018. All rights reserved.
+ * Last modified 10/20/17 10:15 AM.
+ */
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+    defaultConfig {
+        applicationId "com.omrobbie.cataloguemovie"
+        minSdkVersion 16
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        buildConfigField "String", "API_KEY", "\"d61367ce30e2efd26f0db13cc96b96ed\""
+        buildConfigField "String", "BASE_URL", "\"http://api.themoviedb.org/3/\""
+        buildConfigField "String", "BASE_URL_IMG", "\"http://image.tmdb.org/t/p/\""
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+ext {
+    supportLibraryVersion = "25.3.1"
+    retrofitVersion = "2.3.0"
+    butterknifeVersion = "8.8.1"
+    glideVersion = "4.0.0"
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile "com.android.support:appcompat-v7:$supportLibraryVersion"
+    compile "com.android.support:recyclerview-v7:$supportLibraryVersion"
+    compile "com.android.support:design:$supportLibraryVersion"
+
+    compile "com.squareup.retrofit2:converter-gson:$retrofitVersion"
+
+    compile "com.jakewharton:butterknife:$butterknifeVersion"
+    annotationProcessor "com.jakewharton:butterknife-compiler:$butterknifeVersion"
+
+    compile "com.github.bumptech.glide:glide:$glideVersion"
+    annotationProcessor "com.github.bumptech.glide:compiler:$glideVersion"
+
+    compile 'com.github.mancj:MaterialSearchBar:0.7.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+
+    compile 'com.google.android.gms:play-services-gcm:9.6.1'
+
+    testCompile 'junit:junit:4.12'
+}

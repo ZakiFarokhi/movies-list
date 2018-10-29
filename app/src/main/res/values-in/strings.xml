@@ -1,0 +1,26 @@
+<!--
+  ~ Created by omrobbie.
+  ~ Copyright (c) 2018. All rights reserved.
+  ~ Last modified 9/29/17 11:37 AM.
+  -->
+
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="hint_search_text">Cari berdasarkan judul</string>
+    <string name="title_refresh_menu">Segarkan daftar film</string>
+
+    <string name="label_release_date">Tanggal Rilis</string>
+    <string name="label_vote">Voting Rata-rata :</string>
+    <string name="label_genres">Aliran Film</string>
+    <string name="label_overview">Ikhtisar</string>
+    <string name="label_production_details">Detail Produksi</string>
+    <string name="label_belongs">Koleksi Milik</string>
+    <string name="label_budget">Modal</string>
+    <string name="label_revenue">Pendapatan</string>
+    <string name="label_companies">Perusahaan</string>
+    <string name="label_countries">Negara</string>
+    <string name="show_detail">Tampil Rincian</string>
+    <string name="recent">Baru</string>
+    <string name="upcoming">Mendatang</string>
+
+</resources>

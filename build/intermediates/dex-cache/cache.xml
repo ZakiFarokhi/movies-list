@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0\f80192e6fd828d41c7da6f3552b0bef5d89cb26e\annotations-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-4.0.0_318f14bd8de87c04ae338c5e1251b17e42b0b901\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\db4e7d90fe676441cc1eaa3d48d2a7b29cef516e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_ab9ae0030472f6d490c1b46fa9c370e21171d00d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\3e6d1d4a5dc696db9f936010e0e4093377481538\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_687de83dcc725c1d2535f67de78690de20653779\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\bfa65fb2e5fe9a0d7389f14a3462b80ca7fddbe9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7cd41ceb88022224ab7a374bfb117736b0449e49\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\okio-1.13.0_4b8983bc3c99f0fd0ccf7a9cfb67b2b0e97d0675.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\d775b263a7029d3ca7281e389440230f948f2d28\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48826c4557d20019b214db3ccff6071a6a3d6b96\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\8c06dfdbbbc96ceb4b34724bddb4998809eff856\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_37fd0fa14f76745dc28d65fda9e07f6934eebc04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\retrofit-2.3.0_033e62b8ef971fa87a986a5eb9cfadb313beb3a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\2c20b99a512f3c23b073225b2dd567f37e73e6bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_1236cf5d673a52adac27131308aabe93068b5fc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\e32acbb1367c5919957bfb12007e9b47539874a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_3edf3cce0828d1ca53e9196ab80a39e605b51974.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\0e5fc86f175cc53ab6dffde4f4afa86960bf7965\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3c9e9df0895a17ba5841d5d5b2782c722fd5599\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\bbe9954ec087a427806c7d5b6363c33c238bf460\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7795b0a5ae4155412080dc539c6f5cb132c6374\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\okhttp-3.8.0_b3ed6d10e349a4611447812c114a18a0a460221a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_677debac0bdefbbe8912490eec17202271920939.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\95dcbecf98d432c0ccc061f67ebd60acb455b02a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0517ab16518ddfe89059f49418b2e9f6d5b20aa">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d521c5454755230a0ada7ade1612fc3ab94d773c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\17e1cca8641b3d0222ba477ebbec6ece81828ac1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07ce4bc5e117d2447fcf2fd939603c41ae64f9ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\d56f3845c721781fd68f379fb7ce030b83c0b984\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_1f035ec1a6045c945812905d6370a86e3044afaa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.3.0_5ab5364a3a80ec8e892d53013bb4cfa00274835c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\2d084347a374bfc2ce98568f56364d1c074ed4d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b494018104c5aa54da151ab4a87d5baf528f4d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\gson-2.7_9aaff83d6368caf0328095ddba2bc4222e363052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\2ec2d981916709b98a829076d95304c912b3bcbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_8fc1cfd012dd5cf1ec5ef995eb3d392d8df77ead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\butterknife-annotations-8.8.1_d3463a8bd2923d2a0eaef9c2691bf16aeed7f7eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\a2aefafe8ee3e940fc6a1ad8bbb460394e743241\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_471613dec6cb60240aa2ae6b946e88b0dd525678.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0\d88059003509074dd59fa226c822724bcf5ec0ca\disklrucache-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\disklrucache-4.0.0_f2875931ebb8b268b12eb7908a640efd63b50237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\d775b263a7029d3ca7281e389440230f948f2d28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_48826c4557d20019b214db3ccff6071a6a3d6b96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0\47c487cc4e64e6ab127a517669ca9a7b49f8c61d\gifdecoder-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\gifdecoder-4.0.0_a457c69456f79713bd3dc23aa42c0cb54f28740f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\cb5dd6a928a971dac02c617b98727f8335be3a8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_beab062624ffbc8dbf4dc1eff1cf7538ba38d50a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\67a400f91d0cca36472b692b015a82288870010b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69b88e1194044699d968dd73976e6785e9f7ec0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\c99ec756b97a7a281496153e61ad67466abdbe9a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13706760678ccf55d03f699408e5267e6cc098ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b7c489b9cfa55e913349bfc804ea972e8ae61aff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\807e871a3b8b97c92468b3072782077dd56bb647\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_304cefb63f53e7dd0deeb8725a397eb54832c425\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\2dd91bcd1f7d0606f474b9308b65e60f631a0da6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_b15f99d116eca9941bd28ecaaee21a08048992da.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_eaa4afe08ad7d5281235db18a47da8f8065dcbe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\3e6d1d4a5dc696db9f936010e0e4093377481538\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_687de83dcc725c1d2535f67de78690de20653779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0\dff931af436f0a2815d0109ab2258bbce2d6275d\glide-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\glide-4.0.0_ebcc7cd21801b2ed3c38781c2bb05c9849beb2da.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\ad4d33e2b315524adfe91aecd14c53d02327746e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b16263f82ace776a17f220760a4b856300be407\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\db4e7d90fe676441cc1eaa3d48d2a7b29cef516e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab9ae0030472f6d490c1b46fa9c370e21171d00d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\bfa65fb2e5fe9a0d7389f14a3462b80ca7fddbe9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_7cd41ceb88022224ab7a374bfb117736b0449e49.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\2dd91bcd1f7d0606f474b9308b65e60f631a0da6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b15f99d116eca9941bd28ecaaee21a08048992da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_4b8983bc3c99f0fd0ccf7a9cfb67b2b0e97d0675\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0\f80192e6fd828d41c7da6f3552b0bef5d89cb26e\annotations-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\annotations-4.0.0_318f14bd8de87c04ae338c5e1251b17e42b0b901.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\2c20b99a512f3c23b073225b2dd567f37e73e6bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1236cf5d673a52adac27131308aabe93068b5fc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\0e5fc86f175cc53ab6dffde4f4afa86960bf7965\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_b3c9e9df0895a17ba5841d5d5b2782c722fd5599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\bbe9954ec087a427806c7d5b6363c33c238bf460\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_e7795b0a5ae4155412080dc539c6f5cb132c6374.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_b3ed6d10e349a4611447812c114a18a0a460221a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_677debac0bdefbbe8912490eec17202271920939\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_033e62b8ef971fa87a986a5eb9cfadb313beb3a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\8c06dfdbbbc96ceb4b34724bddb4998809eff856\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_37fd0fa14f76745dc28d65fda9e07f6934eebc04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\e32acbb1367c5919957bfb12007e9b47539874a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3edf3cce0828d1ca53e9196ab80a39e605b51974\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\2d084347a374bfc2ce98568f56364d1c074ed4d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_8b494018104c5aa54da151ab4a87d5baf528f4d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\95dcbecf98d432c0ccc061f67ebd60acb455b02a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0517ab16518ddfe89059f49418b2e9f6d5b20aa">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_d521c5454755230a0ada7ade1612fc3ab94d773c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\d56f3845c721781fd68f379fb7ce030b83c0b984\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f035ec1a6045c945812905d6370a86e3044afaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\17e1cca8641b3d0222ba477ebbec6ece81828ac1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_07ce4bc5e117d2447fcf2fd939603c41ae64f9ea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\2ec2d981916709b98a829076d95304c912b3bcbe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8fc1cfd012dd5cf1ec5ef995eb3d392d8df77ead\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b8540199a16fa49938a898060c5171bf64be4747">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b7a355122d49f0f40525659c53f5dba632af3f7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\67a400f91d0cca36472b692b015a82288870010b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_69b88e1194044699d968dd73976e6785e9f7ec0c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_9aaff83d6368caf0328095ddba2bc4222e363052\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\converter-gson-2.3.0_5ab5364a3a80ec8e892d53013bb4cfa00274835c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\a2aefafe8ee3e940fc6a1ad8bbb460394e743241\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_471613dec6cb60240aa2ae6b946e88b0dd525678\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.8.1_d3463a8bd2923d2a0eaef9c2691bf16aeed7f7eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_eaa4afe08ad7d5281235db18a47da8f8065dcbe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\807e871a3b8b97c92468b3072782077dd56bb647\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_304cefb63f53e7dd0deeb8725a397eb54832c425.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.android\build-cache\cb5dd6a928a971dac02c617b98727f8335be3a8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_beab062624ffbc8dbf4dc1eff1cf7538ba38d50a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\c99ec756b97a7a281496153e61ad67466abdbe9a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_13706760678ccf55d03f699408e5267e6cc098ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0\47c487cc4e64e6ab127a517669ca9a7b49f8c61d\gifdecoder-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gifdecoder-4.0.0_a457c69456f79713bd3dc23aa42c0cb54f28740f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\smart\.android\build-cache\ad4d33e2b315524adfe91aecd14c53d02327746e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\pre-dexed\release\classes_7b16263f82ace776a17f220760a4b856300be407.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0\dff931af436f0a2815d0109ab2258bbce2d6275d\glide-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-4.0.0_ebcc7cd21801b2ed3c38781c2bb05c9849beb2da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\smart\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0\d88059003509074dd59fa226c822724bcf5ec0ca\disklrucache-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="C:\Users\smart\AndroidStudioProjects\CatalogueMovie-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\disklrucache-4.0.0_f2875931ebb8b268b12eb7908a640efd63b50237\classes.dex" />
+    </item>
+
+</items>
